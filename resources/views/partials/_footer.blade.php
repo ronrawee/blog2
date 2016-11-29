@@ -1,2 +1,2 @@
 <hr>
-<p class="text-center">Copyright Jacurtis - All Right Reserved</p>
+<p class="text-center">Copyright DMCM - All Right Reserved</p>
